@@ -1,0 +1,31 @@
+Added Component: Designator=D2(ESP-WROOM-32)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=3.3V Pin=D2-2
+Added Pin To Net: NetName=EN Pin=D2-3
+Added Pin To Net: NetName=DIO1 Pin=D2-6
+Added Pin To Net: NetName=DIO2 Pin=D2-7
+Added Pin To Net: NetName=DIO3 Pin=D2-8
+Added Pin To Net: NetName=DIO4 Pin=D2-9
+Added Pin To Net: NetName=DIO5 Pin=D2-10
+Added Pin To Net: NetName=DIO6 Pin=D2-11
+Added Pin To Net: NetName=DIO7 Pin=D2-12
+Added Pin To Net: NetName=DIO8 Pin=D2-13
+Added Pin To Net: NetName=NetD2_14 Pin=D2-14
+Added Pin To Net: NetName=GND Pin=D2-15
+Added Pin To Net: NetName=TE Pin=D2-16
+Added Pin To Net: NetName=NetD2_23 Pin=D2-23
+Added Pin To Net: NetName=NetD2_25 Pin=D2-25
+Added Pin To Net: NetName=ATN Pin=D2-26
+Added Pin To Net: NetName=SRQ Pin=D2-27
+Added Pin To Net: NetName=IFC Pin=D2-28
+Added Pin To Net: NetName=NDAC Pin=D2-29
+Added Pin To Net: NetName=NRFD Pin=D2-30
+Added Pin To Net: NetName=DAV Pin=D2-31
+Added Pin To Net: NetName=REN Pin=D2-33
+Added Pin To Net: NetName=RX Pin=D2-34
+Added Pin To Net: NetName=TX Pin=D2-35
+Added Pin To Net: NetName=EOI Pin=D2-37
+Added Pin To Net: NetName=GND Pin=D2-38
+Added Pin To Net: NetName=GND Pin=D2-39
+Added Member To Class: ClassName=WGPIB Member=Component D2 ESP-WROOM-32

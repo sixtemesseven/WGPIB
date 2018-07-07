@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WGPIB.PrjPCB]
+   Generated File[WGPIB.TXT]
+   Generated File[WGPIB.LDP]
+   Generated File[WGPIB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:08:54 On 07/07/2018
