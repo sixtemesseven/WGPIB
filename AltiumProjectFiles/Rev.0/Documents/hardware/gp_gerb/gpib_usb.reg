@@ -1,0 +1,34 @@
+[Directory]
+Status Report.txt=Text
+gp_usb1f.REP=Text
+gp_usb1f.GTL=Text
+gp_usb1f.GBL=Text
+gp_usb1f.GKO=Text
+gp_usb1f.GM1=Text
+gp_usb1f.GM2=Text
+gp_usb1f.apr=Text
+gp_usb1f.DRR=Text
+gp_usb1f.TXT=Text
+gp_usb1f.DRL=Unknown
+[Status Report.txt]
+Editor Kind=Text
+[gp_usb1f.REP]
+Editor Kind=Text
+[gp_usb1f.GTL]
+Editor Kind=Text
+[gp_usb1f.GBL]
+Editor Kind=Text
+[gp_usb1f.GKO]
+Editor Kind=Text
+[gp_usb1f.GM1]
+Editor Kind=Text
+[gp_usb1f.GM2]
+Editor Kind=Text
+[gp_usb1f.apr]
+Editor Kind=Text
+[gp_usb1f.DRR]
+Editor Kind=Text
+[gp_usb1f.TXT]
+Editor Kind=Text
+[gp_usb1f.DRL]
+Editor Kind=Unknown

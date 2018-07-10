@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: gp_usb1f.PCB   14-Jan-2005  13:14:10
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : TopLayer to BottomLayer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         37               44.57 Inch (1132.09 mm)
+T2        32mil (0.8128mm)         40               39.13 Inch (993.95 mm)
+T3        35mil (0.889mm)          24               37.09 Inch (942.03 mm)
+T4        36mil (0.9144mm)         4                31.29 Inch (794.67 mm)
+T5        92mil (2.3368mm)         2                31.37 Inch (796.81 mm)
+T6        100mil (2.54mm)          1                32.79 Inch (832.94 mm)
+T7        125mil (3.175mm)         2                36.33 Inch (922.75 mm)
+---------------------------------------------------------------------------
+Totals                             110              252.57 Inch (6415.23 mm)
+
+Total Processing Time : 00:00:00

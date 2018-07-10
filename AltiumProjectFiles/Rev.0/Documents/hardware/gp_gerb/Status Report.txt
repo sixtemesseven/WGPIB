@@ -1,0 +1,20 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for gp_usb1f.cam'
+at 13:14:09 on 14-Jan-2005
+
+
+'Gerber Output 1'
+'gp_usb1f.GTL' generated
+'gp_usb1f.GBL' generated
+'gp_usb1f.GKO' generated
+'gp_usb1f.GM1' generated
+'gp_usb1f.GM2' generated
+'gp_usb1f.REP' generated
+
+'NC Drill Output 1'
+'gp_usb1f.TXT' generated
+'gp_usb1f.DRL' generated
+'gp_usb1f.DRR' generated
+
+
+Total number of generated files = 9

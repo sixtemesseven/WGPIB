@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DIO3 Pin=D2-8
+Removed Pin From Net: NetName=DIO4 Pin=D2-9
+Removed Pin From Net: NetName=DIO5 Pin=D2-10
+Removed Pin From Net: NetName=DIO6 Pin=D2-11
+Removed Pin From Net: NetName=DIO7 Pin=D2-12
+Removed Pin From Net: NetName=DIO8 Pin=D2-13
+Removed Pin From Net: NetName=DIO2 Pin=D2-24
+Removed Pin From Net: NetName=DIO1 Pin=D2-36
+Added Pin To Net: NetName=DIO6 Pin=D2-8
+Added Pin To Net: NetName=DIO5 Pin=D2-9
+Added Pin To Net: NetName=DIO4 Pin=D2-10
+Added Pin To Net: NetName=DIO3 Pin=D2-11
+Added Pin To Net: NetName=DIO2 Pin=D2-12
+Added Pin To Net: NetName=DIO1 Pin=D2-13
+Added Pin To Net: NetName=DIO7 Pin=D2-24
+Added Pin To Net: NetName=DIO8 Pin=D2-36

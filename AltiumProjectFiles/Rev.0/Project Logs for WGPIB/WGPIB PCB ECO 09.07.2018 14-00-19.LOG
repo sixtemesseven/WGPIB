@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetDS6_2 Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=NetDS5_2 Pin=R15-2
+Removed Member From Class: ClassName=WGPIB Member=R15
+Change Component Comment : Designator=R11 Old Comment=330 New Comment=10k
+Added Component: Designator=R14(RESC0805(2012)_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDS5_2 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetDS6_2 Pin=R14-2
+Added Member To Class: ClassName=WGPIB Member=Component R14 330

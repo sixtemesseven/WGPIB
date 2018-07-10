@@ -1,0 +1,42 @@
+Protel Design System Design Rule Check
+PCB File : gp_usb1r.PCB
+Date     : 20-Nov-2003
+Time     : 13:39:40
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=36mil) (Prefered=12mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=12mil) (On the board ),(On the board )
+   Violation between Track (31538mil,5180mil)(31538mil,5288.937mil)  TopLayer and                      Pad Q2-C(31539.055mil,5288.937mil)  TopLayer   
+   Violation between Track (31538mil,5288.937mil)(31539.055mil,5288.937mil)  TopLayer and                      Pad Q2-C(31539.055mil,5288.937mil)  TopLayer   
+   Violation between Track (31538mil,5288.937mil)(31538mil,5373.945mil)  TopLayer and                      Pad Q2-C(31539.055mil,5288.937mil)  TopLayer   
+   Violation between Track (31450mil,5375mil)(31539.055mil,5375mil)  TopLayer and                      Pad Q2-C(31539.055mil,5390.236mil)  TopLayer   
+   Violation between Track (31538mil,5288.937mil)(31538mil,5373.945mil)  TopLayer and                      Pad Q2-C(31539.055mil,5390.236mil)  TopLayer   
+   Violation between Track (31538mil,5373.945mil)(31539.055mil,5375mil)  TopLayer and                      Pad Q2-C(31539.055mil,5390.236mil)  TopLayer   
+   Violation between Track (31539.055mil,5375mil)(31539.055mil,5390.236mil)  TopLayer and                      Pad Q2-C(31539.055mil,5390.236mil)  TopLayer   
+   Violation between Track (31539.055mil,5375mil)(31650mil,5375mil)  TopLayer and                      Pad Q2-C(31539.055mil,5390.236mil)  TopLayer   
+   Violation between Pad J1-4(30570mil,5300mil)  MultiLayer and                      Pad J1-1(30650mil,5300mil)  MultiLayer   
+   Violation between Pad J1-3(30570mil,5400mil)  MultiLayer and                      Pad J1-2(30650mil,5400mil)  MultiLayer   
+Rule Violations :10
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+   Violation between Track (31538mil,5180mil)(31538mil,5288.937mil)  TopLayer and                      Pad Q2-C(31539.055mil,5288.937mil)  TopLayer   
+   Violation between Pad Q2-C(31539.055mil,5390.236mil)  TopLayer and                      Pad Q2-C(31539.055mil,5288.937mil)  TopLayer   
+   Violation between Track (31538mil,5288.937mil)(31539.055mil,5288.937mil)  TopLayer and                      Pad Q2-C(31539.055mil,5288.937mil)  TopLayer   
+   Violation between Track (31538mil,5288.937mil)(31538mil,5373.945mil)  TopLayer and                      Pad Q2-C(31539.055mil,5288.937mil)  TopLayer   
+   Violation between Track (31450mil,5375mil)(31539.055mil,5375mil)  TopLayer and                      Pad Q2-C(31539.055mil,5390.236mil)  TopLayer   
+   Violation between Track (31538mil,5288.937mil)(31538mil,5373.945mil)  TopLayer and                      Pad Q2-C(31539.055mil,5390.236mil)  TopLayer   
+   Violation between Track (31538mil,5373.945mil)(31539.055mil,5375mil)  TopLayer and                      Pad Q2-C(31539.055mil,5390.236mil)  TopLayer   
+   Violation between Track (31539.055mil,5375mil)(31539.055mil,5390.236mil)  TopLayer and                      Pad Q2-C(31539.055mil,5390.236mil)  TopLayer   
+   Violation between Track (31539.055mil,5375mil)(31650mil,5375mil)  TopLayer and                      Pad Q2-C(31539.055mil,5390.236mil)  TopLayer   
+Rule Violations :9
+
+
+Violations Detected : 19
+Time Elapsed        : 00:00:01

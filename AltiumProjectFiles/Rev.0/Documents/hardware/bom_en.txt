@@ -1,0 +1,51 @@
+Type            Position        Case
+
+10E             R5              1206
+10E             R4              1206
+10E             R6              1206
+330E            R2              1206
+330E            R17             1206
+330E            R19             1206
+1k5             R3              1206
+1k5             R16             1206
+2k2             R12             1206
+10k             R13             1206
+10k             R18             1206
+10p             C5              1206
+10p             C6              1206
+10p             C10             1206
+10p             C11             1206
+33n             C4              1206
+100n            CB1             1206
+100n            CB2             1206
+100n            CB3             1206
+100n            CB4             1206
+100n            CB5             1206
+100n            CB6             1206
+100n            C3              1206
+100n            C9              1206
+220n            R15             1206
+2u2/6V3         C1              SMD-B
+2u2/6V3         C2              SMD-B
+2,2u            L1              1210
+6M              X1              RAD0.2
+8M              X2              RAD0.2
+6PIN            CN1             IDC6
+6PIN            J1              USB-B
+24PIN           J2              Centronics
+GREEN 3 mm      D1              LED0/1
+BC808           Q3              SOT-23(BEC)
+FT245BM         IC1             MQFP32
+93C46           IC2             SO-8
+AT90S8515_TQFP44 IC3            QFP44-2
+DS75160A        IC4             DIP20
+DS75161A        IC5             DIP20
+Conrad                          housing
+520985 (black)/
+520993 (grey)
+
+Notes:
+Q2 is an alternative to Q3.
+Some position numbers that are missing from the list
+(R1, R7-R11, R14, R16, R20, R21, C7, C12 and Q1)
+belong only to first version of the controller.
