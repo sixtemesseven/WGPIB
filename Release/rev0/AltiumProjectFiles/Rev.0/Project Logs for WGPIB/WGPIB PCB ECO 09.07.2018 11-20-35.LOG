@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=D2-39
+Change Component Footprint: Designator=D2 Old Footprint= New Footprint=ESP-WROOM-32
+Added Pin To Net: NetName=GND Pin=D2-PAD
+Added Pin To Net: NetName=GND Pin=D2-PAD
+Added Pin To Net: NetName=GND Pin=D2-PAD
+Added Pin To Net: NetName=GND Pin=D2-PAD
+Added Pin To Net: NetName=GND Pin=D2-PAD

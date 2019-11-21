@@ -1,0 +1,42 @@
+[Design Root]
+Version=1.0.0
+[Directory]
+AVR.Lib=SchLib
+FTDI.LIB=SchLib
+CONN.LIB=SchLib
+MISC.LIB=PCBLIB
+SMD.LIB=PCBLIB
+gpib_usb.cfg=Text
+gpib_usb1.Sch=Sch
+gpib_usb1.NET=Text
+gp_usb1r.PCB=PCB
+gp_usb1f.PCB=PCB
+gp_usb1r.REP=Text
+gp_usb1r.DRC=Text
+gpib_usb1.cfg=Text
+[AVR.Lib]
+Editor Kind=SchLib
+[FTDI.LIB]
+Editor Kind=SchLib
+[CONN.LIB]
+Editor Kind=SchLib
+[MISC.LIB]
+Editor Kind=PCBLIB
+[SMD.LIB]
+Editor Kind=PCBLIB
+[gpib_usb.cfg]
+Editor Kind=Text
+[gpib_usb1.Sch]
+Editor Kind=Sch
+[gpib_usb1.NET]
+Editor Kind=Text
+[gp_usb1r.PCB]
+Editor Kind=PCB
+[gp_usb1f.PCB]
+Editor Kind=PCB
+[gp_usb1r.REP]
+Editor Kind=Text
+[gp_usb1r.DRC]
+Editor Kind=Text
+[gpib_usb1.cfg]
+Editor Kind=Text

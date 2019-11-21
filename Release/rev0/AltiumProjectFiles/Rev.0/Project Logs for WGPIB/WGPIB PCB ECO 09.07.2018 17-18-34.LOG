@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PE Pin=D2-25
+Removed Pin From Net: NetName=PE Pin=DS6-1
+Removed Pin From Net: NetName=PE Pin=R11-1
+Removed Pin From Net: NetName=3.3V Pin=R11-2
+Removed Member From Class: ClassName=WGPIB Member=R11
+Added Pin To Net: NetName=NetD2_25 Pin=D2-25
+Added Pin To Net: NetName=NetD2_25 Pin=DS6-1
+Added Net: Name=NetD2_25
+Added Member To Class: ClassName=WGPIB Member=Component DS6 TLMS1100-GS08

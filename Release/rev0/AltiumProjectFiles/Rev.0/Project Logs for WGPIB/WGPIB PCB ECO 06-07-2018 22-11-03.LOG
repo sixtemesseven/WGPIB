@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=DIO1 Pin=D2-6
+Removed Pin From Net: NetName=DIO2 Pin=D2-7
+Added Component: Designator=C12(CAPC1206(3216)190_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=J?(SWITCH-RAPC712X-3_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "RAPC7(1,2)2XSide
+
+RAPC7(1,2)2XTop"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material - Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.mouser.com/ds/2/393/rapc722x_cd-371352.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. A, 08/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "SwitchcraftInc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Barrel-PowerConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal Switch(s)"; Value = "SingleSwitch,NormallyClosed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.switchcraft.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions/Contacts"; Value = "2Conductors,2Contacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "Q2287470A
+RAPC722X-ND
+SC1313"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plug/Mating Plug Diameter"; Value = "2.1mmID,5.5mmOD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "SwitchcraftRoHSInfo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "2,500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SolderEyelet(s)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=3.3V Pin=C12-2
+Added Pin To Net: NetName=DIO2 Pin=D2-24
+Added Pin To Net: NetName=DIO1 Pin=D2-36
+Added Member To Class: ClassName=WGPIB Member=Component C12 22uF
+Added Member To Class: ClassName=WGPIB Member=Component J? RAPC722X
+Added Room: Name=WGPIB
